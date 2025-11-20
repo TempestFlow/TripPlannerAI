@@ -1,1 +1,79 @@
-
+{
+  "X": {
+    "user_id": "u124",
+    "destination": "Paryžius, Prancūzija",
+    "start_date": "2025-07-01",
+    "end_date": "2025-07-05",
+    "budget_level": "aukštas",
+    "travelers_count": 4,
+    "group_type": "šeima su vaikais",
+    "interests": ["muziejai", "pramogų parkai", "architektūra"],
+    "transport_preference": "metro + taksi",
+    "language": "lt"
+  },
+  "y": {
+    "summary": "4 dienų šeimos kelionė į Paryžių su vaikais, įtraukiant Eifelio bokštą, Luvrą ir Disneyland.",
+    "days": [
+      {
+        "day_number": 1,
+        "date": "2025-07-01",
+        "title": "Klasikinis Paryžius: Eifelio bokštas",
+        "items": [
+          {
+            "type": "POI_VISIT",
+            "time": "10:00-13:00",
+            "name": "Eifelio bokštas",
+            "short_description": "Iš anksto rezervuokite bilietus internete, kad išvengtumėte ilgų eilių.",
+            "address": "Champ de Mars, 5 Avenue Anatole, Paris"
+          }
+        ]
+      },
+      {
+        "day_number": 2,
+        "date": "2025-07-02",
+        "title": "Luvras ir Sena",
+        "items": [
+          {
+            "type": "POI_VISIT",
+            "time": "10:00-14:00",
+            "name": "Luvro muziejus",
+            "short_description": "Pasirinkite kelias sales vietoje bandymo pamatyti viską, ypač keliaujant su vaikais."
+          }
+        ]
+      },
+      {
+        "day_number": 3,
+        "date": "2025-07-03",
+        "title": "Disneyland",
+        "items": [
+          {
+            "type": "POI_VISIT",
+            "time": "09:00-20:00",
+            "name": "Disneyland Paris",
+            "short_description": "Pilna diena atrakcionų parke, atvykite anksti."
+          }
+        ]
+      }
+    ],
+    "accommodation": [
+      {
+        "name": "Šeimai pritaikytas 4* viešbutis netoli Eifelio bokšto",
+        "price_per_night": 250,
+        "currency": "EUR",
+        "short_description": "Šeimyniniai kambariai, pusryčiai įskaičiuoti, patogus susisiekimas metro."
+      }
+    ],
+    "restaurants": [
+      {
+        "name": "Šeimos bistro",
+        "type": "prancūziška virtuvė",
+        "price_level": "€€€"
+      }
+    ],
+    "tips": [
+      "Aukštam biudžetui Paryžiuje planuokite nuo 200 EUR žmogui per dieną su maistu ir lankytinomis vietomis.",
+      "Metro yra greičiausia priemonė mieste, bet taksi patogu vakarais su vaikais.",
+      "Disneyland bilietus pirkite iš anksto ir pasitikrinkite traukinių grafiką (RER A linija)."
+    ]
+  }
+}
