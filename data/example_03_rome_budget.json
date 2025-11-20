@@ -1,1 +1,66 @@
-
+{
+  "X": {
+    "user_id": "u125",
+    "destination": "Roma, Italija",
+    "start_date": "2025-09-15",
+    "end_date": "2025-09-18",
+    "budget_level": "žemas",
+    "travelers_count": 1,
+    "group_type": "solo keliautojas",
+    "interests": ["istorija", "architektūra", "pigus maistas"],
+    "transport_preference": "pėsčiomis + viešasis transportas",
+    "language": "lt"
+  },
+  "y": {
+    "summary": "3 dienų žemo biudžeto solo kelionė į Romą, daug dėmesio skiriant nemokamoms arba pigioms lankytinoms vietoms.",
+    "days": [
+      {
+        "day_number": 1,
+        "date": "2025-09-15",
+        "title": "Koliziejus ir Romos forumas",
+        "items": [
+          {
+            "type": "POI_VISIT",
+            "time": "09:00-12:00",
+            "name": "Koliziejus",
+            "short_description": "Įsigykite bendrą bilietą Koliziejaus ir Romos forumo lankymui.",
+            "price_estimate": 18
+          }
+        ]
+      },
+      {
+        "day_number": 2,
+        "date": "2025-09-16",
+        "title": "Piazza Navona ir Trevi fontanas",
+        "items": [
+          {
+            "type": "POI_VISIT",
+            "time": "10:00-13:00",
+            "name": "Trevi fontanas",
+            "short_description": "Aplankykite anksti ryte, kad išvengtumėte minių, apsilankymas nemokamas."
+          }
+        ]
+      }
+    ],
+    "accommodation": [
+      {
+        "name": "Hostelis netoli Termini stoties",
+        "price_per_night": 30,
+        "currency": "EUR",
+        "short_description": "Bendrabučio tipo kambariai, puikus susisiekimas viešuoju transportu."
+      }
+    ],
+    "restaurants": [
+      {
+        "name": "Pigi pica išsinešimui",
+        "type": "greitas maistas",
+        "price_level": "€"
+      }
+    ],
+    "tips": [
+      "Naudokite daugkartinį viešojo transporto bilietą (48/72 val.), tai pigiau nei pavieniai bilietai.",
+      "Valgykite toliau nuo pagrindinių turistinių aikščių – kainos žemesnės, o kokybė dažnai geresnė.",
+      "Žemam biudžetui planuokite apie 40–60 EUR per dieną Romoje be skrydžių."
+    ]
+  }
+}
