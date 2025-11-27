@@ -1,12 +1,10 @@
 {
   "X": {
-    "user_id": "u124",
     "destination": "Paryžius, Prancūzija",
     "start_date": "2025-07-01",
     "end_date": "2025-07-05",
     "budget_level": "aukštas",
     "travelers_count": 4,
-    "group_type": "šeima su vaikais",
     "interests": ["muziejai", "pramogų parkai", "architektūra"],
     "transport_preference": "metro + taksi",
     "language": "lt"
