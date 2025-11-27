@@ -16,14 +16,13 @@ GRĄŽINK atsakymą GRIEŽTAI JSON formatu su laukais:
 Štai vartotojo įvestis X (JSON):
 
 {
-  "user_id": "u123",
   "destination": "Vilnius, Lietuva",
-  "start_date": "2025-05-10",
-  "end_date": "2025-05-12",
-  "budget_level": "vidutinis",
-  "travelers_count": 2,
-  "interests": ["istorija", "maistas", "senamiestis"],
-  "transport_preference": "pėsčiomis + viešasis transportas",
+  "start_date": "2025-07-01",
+  "end_date": "2025-07-05",
+  "budget_level": "aukštas",
+  "travelers_count": 4,
+  "interests": ["muziejai", "pramogų parkai", "architektūra"],
+  "transport_preference": "metro + taksi",
   "language": "lt"
 }
 
