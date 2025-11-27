@@ -1,12 +1,10 @@
 {
   "X": {
-    "user_id": "u125",
     "destination": "Roma, Italija",
-    "start_date": "2025-09-15",
-    "end_date": "2025-09-18",
+    "start_date": "2025-09-10",
+    "end_date": "2025-09-14",
     "budget_level": "žemas",
     "travelers_count": 1,
-    "group_type": "solo keliautojas",
     "interests": ["istorija", "architektūra", "pigus maistas"],
     "transport_preference": "pėsčiomis + viešasis transportas",
     "language": "lt"
